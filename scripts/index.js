@@ -1,33 +1,33 @@
 const initialCards = [
   {
-    name: "Val Thorens",
+    name: "Tarot Cards Reading",
     link: "../images/tarot.jpg",
-    alt: "House on a mountain in the winter",
+    alt: "Tarot Reading",
   },
   {
-    name: "Restaurant terrace",
+    name: "Japanese Night Life",
     link: "../images/jp-night.png",
-    alt: "Restaurant on a street walkway",
+    alt: "Nightlife in Japan",
   },
   {
-    name: "An outdoor cafe",
+    name: "A view of the lake in Japan",
     link: "../images/jp-lake.png",
-    alt: "An outdoor cafe",
+    alt: "Lake in Japan",
   },
   {
-    name: "A very long bridge, over the forest and through the trees",
+    name: "Tarot Reading and Coding",
     link: "../images/tarot-coding.jpg",
-    alt: "A very long bridge over a forest",
+    alt: "Tarot and Coding",
   },
   {
-    name: "Tunnel with morning light",
+    name: "A view of a pond and a house in Japan",
     link: "../images/jp-pond.png",
-    alt: "A building like tunnel",
+    alt: "A pond and a house in Japan",
   },
   {
-    name: "Mountain house",
+    name: "Crystals and Incense",
     link: "../images/crystals-incense.png",
-    alt: "A cabin on the woods in the winter in front of snowy trees",
+    alt: "Crystals and incense",
   },
 ];
 
