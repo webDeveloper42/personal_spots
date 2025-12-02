@@ -1,33 +1,32 @@
-// Initial card data
 const initialCards = [
   {
     name: "Val Thorens",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/1-photo-by-moritz-feldmann-from-pexels.jpg",
+    link: "../images/tarot.jpg",
     alt: "House on a mountain in the winter",
   },
   {
     name: "Restaurant terrace",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/2-photo-by-ceiline-from-pexels.jpg",
+    link: "../images/jp-night.png",
     alt: "Restaurant on a street walkway",
   },
   {
     name: "An outdoor cafe",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/3-photo-by-tubanur-dogan-from-pexels.jpg",
+    link: "../images/jp-lake.png",
     alt: "An outdoor cafe",
   },
   {
     name: "A very long bridge, over the forest and through the trees",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/4-photo-by-maurice-laschet-from-pexels.jpg",
+    link: "../images/tarot-coding.jpg",
     alt: "A very long bridge over a forest",
   },
   {
     name: "Tunnel with morning light",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/5-photo-by-van-anh-nguyen-from-pexels.jpg",
+    link: "../images/jp-pond.png",
     alt: "A building like tunnel",
   },
   {
     name: "Mountain house",
-    link: "https://practicum-content.s3.us-west-1.amazonaws.com/software-engineer/spots/6-photo-by-moritz-feldmann-from-pexels.jpg",
+    link: "../images/crystals-incense.png",
     alt: "A cabin on the woods in the winter in front of snowy trees",
   },
 ];
