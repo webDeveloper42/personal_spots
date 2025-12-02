@@ -1,32 +1,32 @@
 const initialCards = [
   {
     name: "Tarot Cards Reading",
-    link: "../images/tarot.jpg",
+    link: "./images/tarot.jpg",
     alt: "Tarot Reading",
   },
   {
     name: "Japanese Night Life",
-    link: "../images/jp-night.png",
+    link: "./images/jp-night.png",
     alt: "Nightlife in Japan",
   },
   {
     name: "A view of the lake in Japan",
-    link: "../images/jp-lake.png",
+    link: "./images/jp-lake.png",
     alt: "Lake in Japan",
   },
   {
     name: "Tarot Reading and Coding",
-    link: "../images/tarot-coding.jpg",
+    link: "./images/tarot-coding.jpg",
     alt: "Tarot and Coding",
   },
   {
     name: "A view of a pond and a house in Japan",
-    link: "../images/jp-pond.png",
+    link: "./images/jp-pond.png",
     alt: "A pond and a house in Japan",
   },
   {
     name: "Crystals and Incense",
-    link: "../images/crystals-incense.png",
+    link: "./images/crystals-incense.png",
     alt: "Crystals and incense",
   },
 ];
